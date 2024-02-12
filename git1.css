@@ -1,0 +1,51 @@
+body
+{
+ height: 125vh;
+ margin-top: 50px;
+ padding: 20px;
+ font-family: sans-serif;
+ 
+}
+.left{
+    float: left;
+    
+}
+* ul
+{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ word-spacing: 10px;
+}
+li{
+    float: right;
+    font-size: larger;
+
+}
+.part1
+{
+   background-color: aqua;
+   background-size: cover;
+   border-bottom: 50px;
+    text-align: center;
+}
+.part1 button
+{
+    background-color: beige;
+    box-sizing: 13px;
+    border-radius: 6px;
+    border-color: azure;
+}
+.part2
+{
+    margin-top: 50px;
+}
+.part2 h2
+{
+    text-align: center;
+}
+.part2 p
+{
+ text-align: center;
+}
